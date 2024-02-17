@@ -4,4 +4,8 @@ Data Structures Questions easy to hard
 <ol>
 <li>Easy<ol>
 <li>Linked List <ol>
-<li>Ques 1</li><li>Ques 2</li></ol></li></ol></li></ol>
+<li>Ques 1</li>
+<li>Ques 2</li>
+<li>Ques 3</li>
+</ol></li>
+</ol></li></ol>
